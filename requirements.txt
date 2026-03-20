@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+minio
+pydantic
+python-multipart
+pydantic-settings
